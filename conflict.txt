@@ -1,1 +1,1 @@
-This line was changed on the master branch.
+This line was changed on both branches.
