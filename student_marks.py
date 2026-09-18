@@ -17,4 +17,4 @@ else:
     grade = "D"
 
 print("Grade:", grade)
-print("Processed by Developer A")
+print("Processed by Developer A and Developer B")
